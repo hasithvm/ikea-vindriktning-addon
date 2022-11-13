@@ -1,0 +1,28 @@
+"C1, C2, ","2","1uF","C","Capacitor_SMD:C_0603_1608Metric","Unpolarized capacitor",""
+
+"C3, C6, ","2","10uF","C","Capacitor_SMD:C_0805_2012Metric","Unpolarized capacitor",""
+
+"C4, C5, C7, C9, ","4","0.1uF","C","Capacitor_SMD:C_0603_1608Metric","Unpolarized capacitor",""
+
+"D1, ","1","LED","LED","LED_SMD:LED_0603_1608Metric","Light emitting diode",""
+
+"J1, ","1","533980567","533980567","Custom-Components:533980567","",""
+
+"J2, ","1","Conn_01x05","Conn_01x05","Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical","Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",""
+
+"R5, R6, R7, R8, R9, R10, ","6","10k","R","Resistor_SMD:R_0603_1608Metric","Resistor",""
+
+"R11, ","1","240","R","Resistor_SMD:R_0603_1608Metric","Resistor",""
+
+"SW1, ","1","SW_SPST","SW_SPST","Button_Switch_SMD:SW_SPST_EVQP7A","Single Pole Single Throw (SPST) switch",""
+
+"U1, ","1","TLV751","TLV751","Custom-Components:TLV75101PDSQR","",""
+
+"U2, ","1","TCA9416DDFR","TCA9416DDFR","Custom-Components:TCA9416DDFR","",""
+
+"U3, ","1","SGP30-2.5K","SGP30-2.5K","Custom-Components:SGP30-2.5K","",""
+
+"U4, ","1","BME280","BME280","Custom-Components:BME280","",""
+
+"U5, ","1","ESP-12F","ESP-12F","RF_Module:ESP-12E","802.11 b/g/n Wi-Fi Module",""
+

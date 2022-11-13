@@ -1,0 +1,27 @@
+"C1, C2, ",2,1uF,C,Capacitor_SMD:C_0603_1608Metric,1276-1945-1-ND
+,,,,,
+"C3, C6, ",2,10uF,C,Capacitor_SMD:C_0805_2012Metric,1276-1945-1-ND
+,,,,,
+"C4, C5, C7, C9, ",4,0.1uF,C,Capacitor_SMD:C_0603_1608Metric,490-5405-1-ND
+,,,,,
+"D1, ",1,LED,LED,LED_SMD:LED_0603_1608Metric,3147-B1911PG--20D000514U1930CT-ND
+,,,,,
+"J1, ",1,533980567,533980567,Custom-Components:533980567,WM7609CT-ND
+,,,,,
+"J2, ",1,Conn_01x05,Conn_01x05,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,
+,,,,,
+"R5, R6, R7, R8, R9, R10, ",6,10k,R,Resistor_SMD:R_0603_1608Metric,CR0603-JW-103ELFCT-ND
+,,,,,
+"R11, ",1,240,R,Resistor_SMD:R_0603_1608Metric,RMCF0603JT240RCT-ND
+,,,,,
+"SW1, ",1,SW_SPST,SW_SPST,Button_Switch_SMD:SW_SPST_EVQP7A,P16763CT-ND
+,,,,,
+"U1, ",1,TLV751,TLV751,Custom-Components:TLV75101PDSQR,296-TLV751180330PDSQRCT-ND
+,,,,,
+"U2, ",1,TCA9416DDFR,TCA9416DDFR,Custom-Components:TCA9416DDFR,N/A
+,,,,,
+"U3, ",1,SGP30-2.5K,SGP30-2.5K,Custom-Components:SGP30-2.5K,1649-1084-1-ND
+,,,,,
+"U4, ",1,BME280,BME280,Custom-Components:BME280,828-1063-1-ND
+,,,,,
+"U5, ",1,ESP-12F,ESP-12F,RF_Module:ESP-12E,N/A
