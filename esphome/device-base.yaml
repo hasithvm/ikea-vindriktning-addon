@@ -1,19 +1,21 @@
 # Base YAML config for the Vindriktning add-on board
-
 i2c:
   sda: GPIO4
   scl: GPIO5
   scan: true
-  id: bus_a
+  id: bus_sensors
 
 uart:
   rx_pin: GPIO12
   baud_rate: 9600
+  id: bus_softuart
 
 sensor:
   - platform: pm1006
     pm_2_5:
       name: "PM2.5"
+    uart_id: bus_softuart
+
   - platform: bme280
     temperature:
       name: "temperature"
@@ -24,6 +26,7 @@ sensor:
       name: "humidity"
     address: 0x76
     update_interval: 60s
+    
   - platform: sgp30
     eco2:
       name: "eCO2"
